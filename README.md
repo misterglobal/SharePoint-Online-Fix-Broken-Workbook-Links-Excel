@@ -73,5 +73,3 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 Contributions and improvements are welcome! Please submit a pull request or open an issue for any suggestions or bugs.
 ```
-
-This README file provides instructions on how to install the necessary modules, configure the script, and run it. It also includes a brief overview of what the script does, error handling, and licensing information. Let me know if you'd like any additional changes!
